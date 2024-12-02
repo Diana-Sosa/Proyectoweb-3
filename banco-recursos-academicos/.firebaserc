@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "banco-recursos-academicos",
+    "prod": "banco-recursos-academicos"
+  },
+  "targets": {},
+  "etags": {}
+}
